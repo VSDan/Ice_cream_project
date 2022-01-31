@@ -1,0 +1,26 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+
+@import './utils/font-dm-sans';
+@import './utils/font-titan-one';
+@import './utils/variables';
+@import './utils/reset';
+@import './components/about';
+@import './components/modal-about';
+@import './components/advantages';
+@import './components/contacts';
+@import './components/modal-contacts';
+@import './components/container';
+@import './components/customer-reviews';
+@import './components/footer';
+@import './components/gallery';
+@import './components/header';
+@import './components/hero';
+@import './components/products';
+@import './components/modal-hero';
+@import './components/mobile-menu';
+@import './components/button';
